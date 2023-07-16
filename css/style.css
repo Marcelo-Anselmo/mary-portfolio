@@ -1,0 +1,11 @@
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+  /* font-family: 'Poppins', sans-serif; */
+}
+
+.container {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+}
