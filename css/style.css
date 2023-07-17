@@ -171,3 +171,15 @@ h1.black {
   padding: 15px 30px 15px 30px;
   color: white;
 }
+
+#portfolioTitle {
+  margin-top: 150px;
+}
+
+.portfolioImg img {
+  width: 100%;
+}
+
+.portfolioImg {
+  padding: 20px;
+}
