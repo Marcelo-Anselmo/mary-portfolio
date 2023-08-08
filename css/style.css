@@ -183,3 +183,30 @@ h1.black {
 .portfolioImg {
   padding: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+  
+  #headerNav {
+    display: flex;
+    flex-direction: row;
+  }
+
+  #headerImg {
+    display: none;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .textCenter {
+    margin-top: 15px;
+  }
+
+  #contactForm {
+    margin: 0;
+    text-align: center;
+  }
+}
